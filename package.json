@@ -1,0 +1,19 @@
+{
+  "name": "vue-page-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@snowpack/plugin-vue": "^2.3.0",
+    "snowpack": "^2.18.5"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.0.2",
+    "vue": "^3.0.5"
+  }
+}
